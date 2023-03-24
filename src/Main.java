@@ -54,10 +54,6 @@ StudentServiceImpl бул класс GroupService  интерфейсин ишк
         import project.service.impl.GroupServiceImpl;
         import project.service.impl.StudentServiceImpl;
 
-        import java.util.ArrayList;
-        import java.util.Arrays;
-        import java.util.List;
-
         public class Main {
     public static void main(String[] args) {
 
